@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Coler Code
+Purple='\033[0;35m'
+Cyan='\033[0;36m'
+cyan='\033[0;36m'
 
 
 # Detect the Linux distribution
