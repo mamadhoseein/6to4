@@ -37,7 +37,7 @@ re '
                 +:   %@:   =%         %=   :@%   -+              
                  -.  +@+                   +@+  .-               
                   .  :@#                   #@:  .                
-                      %@      @ZELROTH    .@%                    
+                      %@      @shoooooooo    .@%                    
                       :+@:               =@+:                    
                         =@:             :@-                      
                          -%.           .%:                       
@@ -45,9 +45,9 @@ re '
                             +         +                          
                              -       -
 
-                    github: github.com/xelroth
-                    telegram: @ZELROTH
-                    instagram: @koohyar.py
+                    github: github.com/mamadhoseein
+                    telegram: @shoooooooo
+                
 
 '
 
